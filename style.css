@@ -1,6 +1,7 @@
 main-container {
     display: flex;
     flex-direction: column;
+    margin: 0;
   }
   header {
     display: flex;
@@ -10,7 +11,7 @@ main-container {
     /* border-width: 700px; */
     /* border-radius: 25%; */
   }
-  
+
   top {
     margin: auto;
   }
